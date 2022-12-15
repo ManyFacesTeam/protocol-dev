@@ -5,7 +5,7 @@ Resources and discussion related to the Protocol Development project.
 💬 [Discussions](https://github.com/ManyFacesTeam/protocol-dev/discussions)  
 💰 [Grant Application](https://docs.google.com/document/d/1qetnsfJ4h0pPLuwhYDwF7ZRw5InUsZgh/edit)  
 
-## Kit (£802 total)
+## Kit (~£800 total)
 
 * [camera](https://www.wexphotovideo.com/canon-eos-250d-digital-slr-camera-with-18-55mm-is-stm-lens-black-1698961/): Canon EOS 250D Digital SLR Camera with 18-55mm IS STM Lens (£649)  
 * [memory card](https://www.wexphotovideo.com/sandisk-32gb-sdhc-card-1519080/): SanDisk 32GB SDHC Card (£9)  
