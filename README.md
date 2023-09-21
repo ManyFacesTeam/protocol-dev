@@ -4,7 +4,7 @@ Resources and discussion related to the Protocol Development project.
 
 💬 [Discussions](https://github.com/ManyFacesTeam/protocol-dev/discussions)  
 💰 [Grant Application](https://docs.google.com/document/d/1qetnsfJ4h0pPLuwhYDwF7ZRw5InUsZgh/edit)  
-📷 [Protocol Draft](https://docs.google.com/document/d/1vZ5GGz_qGu4ebtCa6R4SDpkJosRdRIE3/edit)  
+📷 [Protocol Draft](https://docs.google.com/document/d/1D9TPGXCgTRZi7nqEIg6jb42R4gNQx9L3qasg8tFvu1I/edit)  
 ⚖️ [Ethics Draft](https://docs.google.com/document/d/1fOd2EoI0ot2ZjrnkKk37LQgc4GBB1p2B/edit)  
 
 ## Kit (~£800 total)
